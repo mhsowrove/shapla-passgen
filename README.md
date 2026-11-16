@@ -103,7 +103,7 @@ See `TESTING.md` for completed checks and verification limits. No developer tool
 
 - Footer credit: edit `index.html`.
 - Colors and motion: edit CSS variables and ambient animation in `style.css`.
-- Logo/favicon: `favicon.svg`; installation icons: `icon-192.png` and `icon-512.png`.
+- Logo: `logo.svg`; favicon: `favicon.svg` and `favicon-32.png`; installation icons: `icon-192.png` and `icon-512.png`. Interface icons are original inline SVGs in `icons.js`.
 - Character sets, PIN policy and username vocabularies: `core.js`.
 - Offline asset list and release cache name: `sw.js`.
 
